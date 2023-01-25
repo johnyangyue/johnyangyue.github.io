@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Resume", url: "https://drive.google.com/file/d/1isCCxfzzkpz5J-OLiOjeNaTPI2hxkefL/view?usp=sharing"}
+  - {title: "Resume", url: "https://drive.google.com/file/d/1ejMHVS0Xa2KuRbSHR3MdtFj8UHkCBvMu/view?usp=sharing"}
   - {title: "Projects", url: "https://github.com/johnyangyue"}
 
 
